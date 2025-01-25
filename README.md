@@ -1,6 +1,6 @@
 # Lithuania's Energy Independence Possibility
 
-## This analysis was done by a group of ISM sutdents including myself to assess Lithuania's position and capability of becoming energy independent, primarily from wind energy. The project focuses on various topics:
+## This analysis was done by a group of ISM sutdents including myself to assess Lithuania's position and capability of becoming energy independent, primarily from wind energy. The main programming languages used were Python and SQL. The project focuses on various topics:
 
 ## 1) Lithuania's current energy mix
 ## 2) Energy consumption and projections
